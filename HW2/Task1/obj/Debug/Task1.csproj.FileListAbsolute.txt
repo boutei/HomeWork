@@ -5,3 +5,10 @@ C:\Users\Boutei\source\repos\HomeWork\HW2\Task1\obj\Debug\Task1.csprojAssemblyRe
 C:\Users\Boutei\source\repos\HomeWork\HW2\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
 C:\Users\Boutei\source\repos\HomeWork\HW2\Task1\obj\Debug\Task1.exe
 C:\Users\Boutei\source\repos\HomeWork\HW2\Task1\obj\Debug\Task1.pdb
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task1\bin\Debug\Task1.exe.config
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task1\bin\Debug\Task1.exe
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task1\bin\Debug\Task1.pdb
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task1\obj\Debug\Task1.exe
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task1\obj\Debug\Task1.pdb

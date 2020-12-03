@@ -6,7 +6,7 @@ using System;
 
 namespace Task1
 {
-    class Program
+    class Task1
     {
         static int Numbers()
         {
