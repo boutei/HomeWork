@@ -8,7 +8,7 @@ namespace Task2
 {
     class Task2
     {
-        static int NumberOfDigits()
+        static int NumberDigits()
         {
             int num, i=0;
             
@@ -25,7 +25,7 @@ namespace Task2
         static void Main()
         {
             Console.WriteLine("Введите число");
-            Console.WriteLine($"В числе содержется {NumberOfDigits()} цифр(ы)");
+            Console.WriteLine($"В числе содержется {NumberDigits()} цифр(ы)");
 
             Console.ReadKey();
         }
