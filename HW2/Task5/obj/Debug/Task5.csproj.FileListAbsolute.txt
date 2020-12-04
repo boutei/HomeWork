@@ -1,0 +1,7 @@
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task5\bin\Debug\Task5.exe.config
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task5\bin\Debug\Task5.exe
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task5\bin\Debug\Task5.pdb
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task5\obj\Debug\Task5.exe
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task5\obj\Debug\Task5.pdb

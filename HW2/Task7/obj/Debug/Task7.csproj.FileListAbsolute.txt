@@ -1,0 +1,7 @@
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task7\bin\Debug\Task7.exe.config
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task7\bin\Debug\Task7.exe
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task7\bin\Debug\Task7.pdb
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task7\obj\Debug\Task7.csprojAssemblyReference.cache
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task7\obj\Debug\Task7.exe
+C:\Users\Boutei\source\repos\HomeWork\boutei\HomeWork\HW2\Task7\obj\Debug\Task7.pdb
